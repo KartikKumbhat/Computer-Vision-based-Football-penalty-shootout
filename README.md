@@ -3,7 +3,7 @@ Football penalty shootout developed on Unity 3D. <br>
 The kicker has the option to take shots in six total directions. <br>
 The goalkeeper is controlled by the CPU. <br>
 If the shot direction =/= goalkeeper's save direction, the kicker scores a goal. <br>
-Imported and worked on Adobe Mixamo's 'Shannon' character. <br>
+Imported and worked on Adobe <a href="www.mixamo.com" target="_blank">Mixamo</a>'s 'Shannon' character. <br>
 Built on Unity version 2019.4.21f1 <br>
 
 There are two versions of this game: <br>
