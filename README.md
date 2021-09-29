@@ -13,3 +13,6 @@ The shot directions are as follows: top left corner (numpad 1), bottom left (2),
 The other version runs in Unity engine that takes hand signs as input through a python script. <br>
 The python script is based on a VGG-16 CNN-based model developed by data scientist <a href="https://medium.com/@brenner.heintz" target="_blank">Brenner Heintz</a>.<br>
 The input from python script is passed to the 'AnimationStateControl.cs' C# script through socket programming.<br>
+Unity project files too large to upload but C# scripts and python program for hand sign detection have been uploaded in the 'Scripts' folder for reference.<br>
+Check out my <a href="https://www.youtube.com/watch?v=DbZv878UbNM" target="_blank">video</a> for the demonstration of the project.<br>
+[![CV-based Football penalty shootout](https://i.imgur.com/9DFqwa6.png)](https://www.youtube.com/watch?v=DbZv878UbNM "Demonstration")
