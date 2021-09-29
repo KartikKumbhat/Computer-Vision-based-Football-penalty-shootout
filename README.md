@@ -1,4 +1,4 @@
-# Football-penalty-shootout
+# Computer Vision-based Football penalty shootout game
 Football penalty shootout developed on Unity 3D. <br>
 The kicker has the option to take shots in six total directions. <br>
 The goalkeeper is controlled by the CPU. <br>
